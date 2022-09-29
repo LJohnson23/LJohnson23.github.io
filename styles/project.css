@@ -2,14 +2,11 @@ html{
     background-image: linear-gradient(to left, white 0%, #facd8a 100%);
 
 }
-margin{
-    margin-left: auto;
-}
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     margin-left: 10px;
-    width: 1000px;
+    width: 90%;
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
@@ -62,4 +59,16 @@ article img{
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
+}
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: lightgreen;
+}
+aside{
+    width:20%;
+    float:right;
+    padding: 0.1em 1em 1em;
+    background-color: #ffebc6;
 }
