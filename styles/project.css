@@ -13,12 +13,7 @@ body{
     border:1px solid black; 
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-}
-a:focus, a:hover{
-    font-style:italic;
-    color: orangered;
-    border:3px blue;
-    border-style: dotted solid;
+
 }
 header h1{
     font-size: 75%;
