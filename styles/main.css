@@ -2,6 +2,7 @@ html{
     background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
 
 }
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -44,7 +45,7 @@ img{
 }
 main{
     clear:left;
-    
+    margin-left:auto;
 }
 main h3{
     margin: 3em 2em 1.5em;
@@ -59,7 +60,6 @@ main nav{
     padding: 1em;
 }
 div{
-    margin-left: auto;
     margin: 1.5em 2em 2em 0em;
     border: 5px blue dotted;
     border-radius: 20px;
