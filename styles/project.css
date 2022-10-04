@@ -3,7 +3,7 @@ html{
 
 }
 header{
-    line: maroon;
+    border-bottom: maroon dotted;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
