@@ -73,4 +73,5 @@ div{
 footer p.copyright{
     text-align: center;
     font-size: 80%;
+    margin-left: auto;
 }
