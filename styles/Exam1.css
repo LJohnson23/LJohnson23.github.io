@@ -20,6 +20,10 @@ body{
 article{
     width:75%;
 }
-aside{
+aside ol.fixed{
     width:20% ;
+    list-style-type: upper-roman;
+}
+aside ul.fixed{
+    list-style-type: square;
 }
