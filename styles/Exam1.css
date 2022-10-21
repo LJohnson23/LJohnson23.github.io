@@ -1,5 +1,4 @@
 html{
-    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
 
 }
 body{
@@ -58,7 +57,7 @@ article p::first-letter{
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
-    color: lightgreen;
+    color: black;
 }
 aside{
     width:20%;
