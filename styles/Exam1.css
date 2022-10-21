@@ -25,7 +25,7 @@ body{
     padding: 0 1.5em; }
 #nav_menu ul li a {
     font-weight: bold;
-    color: blue; }
+    color: block blue; }
 #nav_menu ul li a.current { text-decoration: none; }
 
 a:focus, a:hover{
