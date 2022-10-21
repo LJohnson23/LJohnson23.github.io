@@ -25,7 +25,7 @@ body{
     width:95%;
     margin:15px auto;
 }
-article::first-letter{
+article::first-letter p{
     width:75%;
     font-size: 3em;
     font-weight: bold;
