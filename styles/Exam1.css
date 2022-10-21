@@ -14,8 +14,14 @@
     border-right: 2px solid white;
     clear: right;
  }
-#nav_menu ul li a.lastitem { border-right: none; }	
-#nav_menu ul li a.current { color: white; }
+#nav_menu ul li a.lastitem { border-right: none; 
+}	
+#nav_menu ul li a.current { color: white; 
+}
+header{
+    float:left;
+    clear:right;
+}
 body{
     width:95%;
     margin:15px auto;
