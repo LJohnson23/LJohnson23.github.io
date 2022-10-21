@@ -5,7 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     margin-left: 10px;
-    width: 90%;
+    width: 95%;
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
@@ -54,14 +54,14 @@ article{
     width: 70%;
     float: left;
     column-count: 2;
-    column-rule: 2px dotted maroon;
+    column-rule: 2px solid black;
     column-gap: 2em;
     margin-left: 2em;
     clear:left;
 }
 article h3{
     column-span:all;
-    border-bottom: 2px maroon solid;
+    border-bottom: 2px black;
 }
 article img{
     float: left;
@@ -82,7 +82,7 @@ aside{
 }
 footer{
     clear: both;
-    border-top: 2px solid maroon; 
+    border-top: 2px solid black; 
 }
 footer p.copyright{
     text-align: center;
@@ -93,7 +93,7 @@ p.fixed{
     position:fixed;
     bottom:35%;
     right:0;
-    border: 3px solid darkgreen;
-    background-color: lightgreen;
+    border: 3px solid white;
+    background-color: lightblue;
     padding: 2em;
 }
