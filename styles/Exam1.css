@@ -19,7 +19,9 @@ body{
     padding: 1em 0 ;    /* padding above and below li
                           elements */
     text-align: center;
-    border-bottom: 2px solid black; column-span:black; }
+    border-bottom: 2px solid black; column-span:black;
+    float border: center;
+ }
 #nav_menu ul li {
     display: inline;
     padding: 0 1.5em; }
