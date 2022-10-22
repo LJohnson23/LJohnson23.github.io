@@ -14,8 +14,9 @@ body{
     box-shadow: 5px 5px 0 0;
 }
 #nav_menu ul {
+    float: left
     list-style-type: none;
-    padding: 1em 0;    /* padding above and below li
+    padding: 1em 0 ;    /* padding above and below li
                           elements */
     text-align: center;
     border-bottom: 2px solid black; }
