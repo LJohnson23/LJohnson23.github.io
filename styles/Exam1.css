@@ -85,10 +85,6 @@ aside{
     padding: 0.1em 1em 1em;
     background-color: #ffebc6;
 }
-footer p.copyright{
-    text-align: center;
-    font-size: 80%;
-}
 p.fixed{
     width:auto;
     position:fixed;
@@ -97,4 +93,8 @@ p.fixed{
     border: 3px solid white;
     background-color: lightblue;
     padding: 2em;
+}
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
 }
