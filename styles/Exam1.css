@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
+    background-image: linear-gradient(to left, white 0%, white 100%);
 
 }#nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
@@ -15,7 +15,7 @@ html{
     font-weight: bold;
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }	
-#nav_menu ul li a.current { color: black; }
+#nav_menu ul li a.current { color: white; }
 
 body{
     font-family: Arial, Helvetica, sans-serif;
