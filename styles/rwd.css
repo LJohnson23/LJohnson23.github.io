@@ -152,11 +152,11 @@ html, body {
             font-size: 1.1em;
         }
         article p{
-            font: size 08em;
+            font size: 0.8em;
         }
         footer{
             border-top:1px solid #f46b45;
             text-align: center;
-            font: size 06em;
+            font size: 0.6em;
         }
     }
