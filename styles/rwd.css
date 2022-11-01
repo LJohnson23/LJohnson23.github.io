@@ -89,8 +89,8 @@ html, body {
         text-decoration: none;
         color: white;
     }
-    .menu a:hover,a.current{
-        text-decoration: underline;
+    .menu a:hover{
+        a.current,text-decoration: underline;
     }
     article{
         padding: 01em;
