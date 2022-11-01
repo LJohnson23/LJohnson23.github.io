@@ -109,7 +109,7 @@ html, body {
         text-align: center;
         font-size: .8em;
     }
-    @media screen only and (max-width:700px;){
+    @media only screen and (max-width:700px){
         .menu-button-container {
             display: flex;
         }
