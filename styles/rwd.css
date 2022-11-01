@@ -98,7 +98,7 @@ html, body {
     article p{
         font-size: 1em;
     }
-    article image{
+    article img{
         margin:auto;
         display: block;
         width:100%;
